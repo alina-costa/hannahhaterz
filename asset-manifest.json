@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hannahhaterz/static/css/main.529b1796.css",
+    "main.js": "/hannahhaterz/static/js/main.c9065c33.js",
+    "static/js/787.2d1b717b.chunk.js": "/hannahhaterz/static/js/787.2d1b717b.chunk.js",
+    "index.html": "/hannahhaterz/index.html",
+    "main.529b1796.css.map": "/hannahhaterz/static/css/main.529b1796.css.map",
+    "main.c9065c33.js.map": "/hannahhaterz/static/js/main.c9065c33.js.map",
+    "787.2d1b717b.chunk.js.map": "/hannahhaterz/static/js/787.2d1b717b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529b1796.css",
+    "static/js/main.c9065c33.js"
+  ]
+}
